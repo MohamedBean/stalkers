@@ -4,5 +4,6 @@
   "waila:harvest": true,
   "waila:extra": true,
   "waila:forge": true,
-  "securitycraft:plugin": true
+  "securitycraft:plugin": true,
+  "minecraft:waystones": true
 }
