@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Stalkers 1.2",
+  "name": "Stalkers 1.3",
   "version": "1.19.2",
   "author": "IronicallyBean",
   "files": [
@@ -52,11 +52,6 @@
     {
       "projectID": 367178,
       "fileID": 5141422,
-      "required": true
-    },
-    {
-      "projectID": 890565,
-      "fileID": 5361337,
       "required": true
     },
     {
@@ -472,6 +467,146 @@
     {
       "projectID": 1013669,
       "fileID": 5341287,
+      "required": true
+    },
+    {
+      "projectID": 882495,
+      "fileID": 4621015,
+      "required": true
+    },
+    {
+      "projectID": 550678,
+      "fileID": 4424086,
+      "required": true
+    },
+    {
+      "projectID": 465109,
+      "fileID": 4362859,
+      "required": true
+    },
+    {
+      "projectID": 515276,
+      "fileID": 5336906,
+      "required": true
+    },
+    {
+      "projectID": 470193,
+      "fileID": 4764733,
+      "required": true
+    },
+    {
+      "projectID": 831663,
+      "fileID": 4894788,
+      "required": true
+    },
+    {
+      "projectID": 899487,
+      "fileID": 5323277,
+      "required": true
+    },
+    {
+      "projectID": 582327,
+      "fileID": 4876162,
+      "required": true
+    },
+    {
+      "projectID": 264353,
+      "fileID": 3922675,
+      "required": true
+    },
+    {
+      "projectID": 689467,
+      "fileID": 5416166,
+      "required": true
+    },
+    {
+      "projectID": 959388,
+      "fileID": 5018199,
+      "required": true
+    },
+    {
+      "projectID": 399558,
+      "fileID": 4455719,
+      "required": true
+    },
+    {
+      "projectID": 391382,
+      "fileID": 5376578,
+      "required": true
+    },
+    {
+      "projectID": 264738,
+      "fileID": 3877162,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3872808,
+      "required": true
+    },
+    {
+      "projectID": 240633,
+      "fileID": 4565642,
+      "required": true
+    },
+    {
+      "projectID": 827291,
+      "fileID": 4397955,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 4153347,
+      "required": true
+    },
+    {
+      "projectID": 421850,
+      "fileID": 4876062,
+      "required": true
+    },
+    {
+      "projectID": 901344,
+      "fileID": 4752474,
+      "required": true
+    },
+    {
+      "projectID": 1027025,
+      "fileID": 5433901,
+      "required": true
+    },
+    {
+      "projectID": 945562,
+      "fileID": 5149895,
+      "required": true
+    },
+    {
+      "projectID": 399246,
+      "fileID": 4121161,
+      "required": true
+    },
+    {
+      "projectID": 508712,
+      "fileID": 4100178,
+      "required": true
+    },
+    {
+      "projectID": 543652,
+      "fileID": 4577089,
+      "required": true
+    },
+    {
+      "projectID": 639584,
+      "fileID": 4789112,
+      "required": true
+    },
+    {
+      "projectID": 666014,
+      "fileID": 5323434,
+      "required": true
+    },
+    {
+      "projectID": 519759,
+      "fileID": 5138314,
       "required": true
     }
   ],
