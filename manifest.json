@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Stalkers 1.1",
+  "name": "Stalkers 1.2",
   "version": "1.19.2",
   "author": "IronicallyBean",
   "files": [
@@ -82,11 +82,6 @@
     {
       "projectID": 337243,
       "fileID": 4143529,
-      "required": true
-    },
-    {
-      "projectID": 1013669,
-      "fileID": 5341287,
       "required": true
     },
     {
@@ -182,11 +177,6 @@
     {
       "projectID": 351264,
       "fileID": 4513187,
-      "required": true
-    },
-    {
-      "projectID": 238551,
-      "fileID": 5643019,
       "required": true
     },
     {
@@ -390,13 +380,98 @@
       "required": true
     },
     {
-      "projectID": 408094,
-      "fileID": 3987366,
+      "projectID": 274259,
+      "fileID": 5141759,
       "required": true
     },
     {
-      "projectID": 274259,
-      "fileID": 5141759,
+      "projectID": 619355,
+      "fileID": 3950475,
+      "required": true
+    },
+    {
+      "projectID": 758284,
+      "fileID": 5317326,
+      "required": true
+    },
+    {
+      "projectID": 599111,
+      "fileID": 4889063,
+      "required": true
+    },
+    {
+      "projectID": 460819,
+      "fileID": 4327266,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 5399366,
+      "required": true
+    },
+    {
+      "projectID": 417645,
+      "fileID": 4427313,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050343,
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 5494603,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 4751735,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 4943265,
+      "required": true
+    },
+    {
+      "projectID": 235577,
+      "fileID": 4753179,
+      "required": true
+    },
+    {
+      "projectID": 658587,
+      "fileID": 4418149,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4973444,
+      "required": true
+    },
+    {
+      "projectID": 496030,
+      "fileID": 4732816,
+      "required": true
+    },
+    {
+      "projectID": 409660,
+      "fileID": 5516599,
+      "required": true
+    },
+    {
+      "projectID": 453746,
+      "fileID": 5318126,
+      "required": true
+    },
+    {
+      "projectID": 998397,
+      "fileID": 5514184,
+      "required": true
+    },
+    {
+      "projectID": 1013669,
+      "fileID": 5341287,
       "required": true
     }
   ],
