@@ -2,7 +2,7 @@
 ["Config for Tense Ambience Mod (This Config is for the Sound Events NOT AMBIENCE!)"]
 	#The Numbers are chances which get rolled every second. So a number of 60(seconds) would play a sound on average every minute.
 	#Should this feature be enabled
-	"Enable random creepy sounds?" = false
+	"Enable random creepy sounds?" = true
 	#Chance to play a random sound in deep caves (below y0)
 	#Range: 10 ~ 345600
 	"Deep Cave Probability" = 5400

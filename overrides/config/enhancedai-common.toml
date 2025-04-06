@@ -1,5 +1,5 @@
-"Enable Base" = true
-"Enable Animals" = true
+"Enable Base" = false
+"Enable Animals" = false
 "Enable Blazes" = true
 "Enable Creepers" = true
 "Enable Drowneds" = true
